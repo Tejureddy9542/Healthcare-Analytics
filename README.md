@@ -1,24 +1,119 @@
 # Healthcare-Analytics
-<img width="1304" height="743" alt="Screenshot 2025-11-09 114215" src="https://github.com/user-attachments/assets/0ed9c676-cbf3-4a64-88de-8dd118054767" />
-<img width="466" height="311" alt="image" src="https://github.com/user-attachments/assets/94189257-6b97-47d3-bb0f-4bc431aefa90" />
+<img width="1291" height="741" alt="image" src="https://github.com/user-attachments/assets/26919f58-3efb-439d-98b7-dd2798ced172" />
+🔷 1. Key Summary Metrics (Top Section)
 
+The dashboard highlights major performance indicators:
 
-<img width="2032" height="337" alt="image" src="https://github.com/user-attachments/assets/7ef01d9c-05b2-4582-b9dc-31e9642157e1" />
+10,000 Total Patients
 
-<img width="423" height="256" alt="image" src="https://github.com/user-attachments/assets/791c0fbb-c507-49b3-866c-80d695cee021" />
+1,000 Total Doctors
 
-<img width="2627" height="310" alt="image" src="https://github.com/user-attachments/assets/74f552cd-b489-4775-8fee-a7480a76a990" />
+10,000 Total Visits
 
-<img width="451" height="287" alt="image" src="https://github.com/user-attachments/assets/a0abe286-ed1f-42e6-96ca-9a97b20fa8b6" />
+Average Age: 49 years
 
-<img width="2618" height="345" alt="image" src="https://github.com/user-attachments/assets/4622ae47-1223-4607-9e54-8dfad0f981f7" />
+Doctor Workload: 10
 
-<img width="384" height="185" alt="image" src="https://github.com/user-attachments/assets/c91e006d-774b-4bb6-a9a5-344522ff71fe" />
+33.54% Abnormal Test Results
 
-<img width="1450" height="487" alt="image" src="https://github.com/user-attachments/assets/b90a782a-dcb3-436d-9bdd-4bacbcf963be" />
+10,000 Total Lab Tests
 
-<img width="949" height="258" alt="image" src="https://github.com/user-attachments/assets/2b691cb6-2c9a-4cc7-b9fb-b06c93ae896b" />
+Average Treatment Cost: $525
 
-<img width="1419" height="455" alt="image" src="https://github.com/user-attachments/assets/b8b09e44-a99d-46b5-b03e-8a2fb83ad6c8" />
+These KPIs give a quick snapshot of hospital operations and patient data.
 
-<img width="1404" height="889" alt="image" src="https://github.com/user-attachments/assets/744c0703-1b87-4979-8500-60328eec5c23" />
+🔷 2. Filters (Top Right)
+
+There are filter options for:
+
+Gender: Female, Male, Other
+
+Diagnosis: Asthma, Diabetes, Healthy, Hypertension (scrollable)
+
+These allow users to dynamically analyze data based on selected categories.
+
+🔷 3. Follow-Up Rate (Donut Chart)
+
+Roughly 50.16% vs 49.84%
+
+Shows nearly equal distribution between follow-up statuses (likely completed vs not completed).
+
+This suggests balanced patient follow-up engagement.
+
+🔷 4. Healthcare Analytics Visual (Center Graphic)
+
+A conceptual diagram showing:
+
+Machine Learning
+
+Deep Learning
+
+Predictive Analytics
+
+Data Processing
+
+Patient Monitoring
+
+This illustrates how analytics supports healthcare decision-making.
+
+🔷 5. Patient Status Distribution (Pie Chart)
+
+Patients are divided into:
+
+3.36K Discontinued
+
+3.33K Completed
+
+3.32K Ongoing
+
+The distribution is almost evenly split across the three categories.
+
+🔷 6. Diagnosis Distribution (Bar Chart)
+
+Number of patients by diagnosis:
+
+Migraine – 2039
+
+Hypertension – 2011
+
+Asthma – 2009
+
+Healthy – 1981
+
+Diabetes – 1960
+
+The cases are fairly evenly distributed across conditions.
+
+🔷 7. Lab Test Distribution (Table)
+
+Count of different test types:
+
+CT Scan – 2077
+
+X-Ray – 2014
+
+MRI – 1993
+
+Urine Test – 1987
+
+Blood Test – 1929
+
+Total – 10,000
+
+Tests are evenly distributed, with CT scans slightly higher.
+
+📌 Overall Insight
+
+This dashboard provides:
+
+A balanced distribution of diagnoses and patient statuses
+
+Moderate abnormal test rate (33.54%)
+
+Even lab test usage
+
+Stable operational metrics
+
+Average treatment cost of $525
+
+It appears to represent a well-balanced healthcare dataset designed for analytics and performance monitoring.
